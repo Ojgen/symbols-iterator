@@ -3,7 +3,3 @@ var createSymbIterator = function(symbols) {
 	
 };
 
-
-
-
-
