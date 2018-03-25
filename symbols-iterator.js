@@ -1,0 +1,9 @@
+//
+var createSymbIterator = function(symbols) {
+	
+};
+
+
+
+
+
